@@ -8,7 +8,7 @@ Masterly is a modern, fast, and interactive learning platform that offers person
 
 > _Here’s a quick look at the Masterly homepage_
 
-![Homepage](cps/team-ayush-learningpath/public/homepage.png)
+![Homepage](public/homepage.png)
 *Interactive UI*
 
 
